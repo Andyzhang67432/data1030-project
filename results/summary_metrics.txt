@@ -1,0 +1,4 @@
+Baseline accuracy (predict majority class): 0.7347
+Best model: Logistic Regression
+Best model test AUC: 0.8438
+Std above baseline (accuracy): 0.15
